@@ -1,5 +1,3 @@
-### <Hello, world!>🪐<I`m Artem/>
-
 <!--
 **xrsQugi/xrsQugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![MasterHead](./)](https://github.com/xrsQugi)
+<!-- ### <Hello, world!>🪐<I`m Artem/> -->
+[![MasterHead](./header.png)](https://github.com/xrsQugi)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
