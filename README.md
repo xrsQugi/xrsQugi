@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ### <Hello, world!>🪐<I`m Artem/> -->
-[![MasterHead](./header.png)](https://github.com/xrsQugi)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Header](./assets/header.png)](https://github.com/xrsQugi)
 
 
 🚥 I’m currently discovering **React**
@@ -25,6 +23,7 @@ Here are some ideas to get you started:
 👁️‍🗨️ Fun fact **Except coding and I like design**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://discord.gg/Andrii#9074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andrii#9074" height="30" width="40" /></a>
 </p>
