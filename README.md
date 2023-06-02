@@ -18,9 +18,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="30" height="40"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?ssl=1" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/></a> 
+    <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="30" height="40"/></a> 
+    <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?ssl=1" alt="javascript" width="40" height="40"/></a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="47" height="40"/></a> 
