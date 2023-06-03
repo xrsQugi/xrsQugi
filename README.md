@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://www.adobe.com/ua/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a> 
   <a href="https://www.adobe.com/ru/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="40" height="40"/></a> 
-  <a href="[https://www.adobe.com/ru/products/illustrator.html](https://www.blender.org/)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="40"/></a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="40"/></a> 
 </p>
 
 ---
