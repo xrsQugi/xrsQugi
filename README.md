@@ -39,8 +39,5 @@
 <h3 align="left">Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrsqugi&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 ![xrsQugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrsQugi&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=xrsqugi&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
