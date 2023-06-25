@@ -3,7 +3,7 @@
 
 💬 How to reach me **02.04.5.art@gmail.com**
 
-✨ Fun fact: **Except coding and I like design**
+🗽 Fun fact: **Except coding and I like design**
 
 ---
 <h3 align="left">Connect with me:</h3>
