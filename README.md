@@ -1,11 +1,13 @@
 [![Header](./assets/header.png)](https://github.com/xrsQugi)
-🪐 I’m currently discovering **React**
 
-💬 How to reach me **02.04.5.art@gmail.com**
+![](https://komarev.com/ghpvc/?username=xrsQugi&style=for-the-badge&color=09b2e3)
+
+🪐 I’m currently discovering **React**
 
 🗽 Fun fact: **Except coding and I like design**
 
-![](https://komarev.com/ghpvc/?username=xrsQugi&style=for-the-badge&color=09b2e3)
+💬 How to reach me **02.04.5.art@gmail.com**
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
