@@ -4,7 +4,7 @@
 
 🪐 I’m currently discovering **React**
 
-🗽 Fun fact: **Except coding and I like design**
+🗽 Fun fact: **Except coding I like design**
 
 💬 How to reach me **02.04.5.art@gmail.com**
 
